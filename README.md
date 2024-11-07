@@ -135,6 +135,3 @@ if __name__ == "__main__":
   print("la matriz transpuesta es: " + str(Mtranspuesta))
 ```
 
-**4.** Desarrollar un programa que sume los elementos de una columna dada de una matriz.
-
-**5.** Desarrollar un programa que sume los elementos de una fila dada de una matriz.
